@@ -1,4 +1,4 @@
-#Esto debe de estar en la Rama de la Feature1
+#Esto debe de estar en la Rama de la Feature1. Pero esto lo agrege en main =D
 
 def hacer_repetidor(n):
     def repetidor(cadena):
